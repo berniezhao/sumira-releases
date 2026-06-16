@@ -1,15 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "See https://github.com/berniezhao/sumira-releases/releases/tag/v0.3.0 for details.",
-  "pub_date": "2026-06-16T14:06:28Z",
+  "version": "0.3.2",
+  "notes": "See https://github.com/berniezhao/sumira-releases/releases/tag/v0.3.2 for details.",
+  "pub_date": "2026-06-16T15:48:52Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc3FUMmVQL0Jsbmg0eFBlODNlVEJTMlRFNUN0azRxRWRWOEp1dmFiaE9qZm8yUHVNOXVpY0FZb3pLWHIxbzB3cEYrNytRcXFRYnFWeCtITTl0Tm94VURqWXI4alFpb0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjE4Nzg3CWZpbGU6U3VtaXJhLmFwcC50YXIuZ3oKYnhsOGxMRGtMUzZaS3ozd2dZdzJ2RUFyTE1aUk1sbHJnRllCYUJLZStXN25HeFFEV2NCS3RrU2kyNFMxWjhWSTkySzZtUk54T0dLZGdDbFExM0JKQkE9PQo=",
-      "url": "https://github.com/berniezhao/sumira-releases/releases/download/v0.3.0/Sumira.app.tar.gz"
-    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc3FUMmVQL0Jsbmg0eFBlODNlVEJTMlRFNUN0azRxRWRWOEp1dmFiaE9qZm8yUHVNOXVpY0FZb3pLWHIxbzB3cEYrNytRcXFRYnFWeCtITTl0Tm94VURqWXI4alFpb0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjE4Nzg3CWZpbGU6U3VtaXJhLmFwcC50YXIuZ3oKYnhsOGxMRGtMUzZaS3ozd2dZdzJ2RUFyTE1aUk1sbHJnRllCYUJLZStXN25HeFFEV2NCS3RrU2kyNFMxWjhWSTkySzZtUk54T0dLZGdDbFExM0JKQkE9PQo=",
-      "url": "https://github.com/berniezhao/sumira-releases/releases/download/v0.3.0/Sumira.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRXd6U0d0Q3V2aUkwTWhPd2tlcm5PdkMwQ0p1T2UyOWhYTlZ3Ky8zT0ZXcE5tc2xNVytIZTh2ZG5ITkN4QUVNNGh1YnFpRHdHWGJUT3ZIbGEvVjJiM0lDcHVpT0NQVFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjI0OTE4CWZpbGU6U3VtaXJhLmFwcC50YXIuZ3oKL1dMaHhnZ3NPYnJZa20vK1ZRVU11NjltTGtMOVE3b1FmR1I1MWxPNzRwZjRPblBsREhVeHRnZmtIbTFDVFBadFpMRHVReDRrOWRxSjdNREZQYWlxRHc9PQo=",
+      "url": "https://github.com/berniezhao/sumira-releases/releases/download/v0.3.2/Sumira.app.tar.gz"
     }
   }
 }
